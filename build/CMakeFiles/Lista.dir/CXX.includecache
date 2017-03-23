@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Lista.h
+Nodo.h
+../include/Nodo.h
+
+../include/Nodo.h
+iostream
+-
+stdlib.h
+-
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/src/Lista.cpp
+Lista.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/src/Lista.h
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/src/Nodo.cpp
+Nodo.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/src/Nodo.h
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/src/main.cpp
+Lista.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/src/Lista.h
+

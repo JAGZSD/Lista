@@ -1,0 +1,1 @@
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 2/Lista/build/CMakeFiles/Lista.dir
